@@ -1,0 +1,8 @@
+archive/
+conversations/
+Claude Conversations.md
+.obsidian/
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
