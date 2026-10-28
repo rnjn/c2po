@@ -1,4 +1,6 @@
-# Claude Conversation History → Obsidian
+# c2po
+
+*Claude Conversations → Personal Obsidian*
 
 Converts a claude.ai data export into Markdown notes for viewing in [Obsidian](https://obsidian.md).
 
