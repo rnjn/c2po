@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.svg" width="128" alt="c2po logo"></p>
+
 # c2po
 
 *Claude Conversations → Personal Obsidian*
